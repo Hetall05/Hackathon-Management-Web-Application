@@ -1,8 +1,8 @@
-# Next.js Hackathon Template
+# Next.js Hackathon Web Application
 
-### [Template Features](#-the-hackathon-template-comes-with-the-following-full-stack-features) · [Tech Stack](#-made-with) · [Setup](#-setup-local-testing) · [Descope](#-descope) · [Template Data](#-template-data) · [Airtable Setup](#-airtable-setup) · [Deploy](#-deploy) · [Gallery](#-gallery)
 
-## 🪐 The Hackathon template comes with the following full-stack features:
+
+## 🪐 The HackathonWeb Application  comes with the following full-stack features:
 
 - [Descope](https://descope.com) NextAuth authentication 🔐 <br/>
 - Protected pages & API routes with NextAuth. <br/>
